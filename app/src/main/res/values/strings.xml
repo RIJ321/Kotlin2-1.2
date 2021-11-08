@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kotlin2-1.2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bottom_nav_main">Main</string>
+    <string name="bottom_nav_settings">Settings</string>
+    <string name="bottom_nav_history">History</string>
+    <string name="illustration">illustration</string>
+    <string name="questions_amount">Questions amount:</string>
+    <string name="category">Category:</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="btn_start">start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
